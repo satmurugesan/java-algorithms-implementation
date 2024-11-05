@@ -1,9 +1,9 @@
 Java : Algorithms and Data Structure ![alt tag](https://api.travis-ci.org/phishman3579/java-algorithms-implementation.svg?branch=master)
 ==============================
 
-Algorithms and Data Structures implemented in Java
+The algorithms and data structures are implemented in Java.
 
-This is a collection of algorithms and data structures which I've implement over the years in my academic and professional life. The code isn't overly-optimized but is written to be correct and readable. The algorithms and data structures are well tested and, unless noted, are believe to be 100% correct.
+This is a collection of algorithms and data structures I've implemented in my academic and professional life. The code isn't optimized but is written to be correct and readable. The algorithms and data structures are tested and, unless noted, believed to be correct.
 
 ## Created by Justin Wetherell
 
@@ -45,7 +45,7 @@ This is a collection of algorithms and data structures which I've implement over
 * [Hash Map (associative array)](src/com/jwetherell/algorithms/data_structures/HashMap.java)
 * [Interval Tree](src/com/jwetherell/algorithms/data_structures/IntervalTree.java)
 * [Implicit Key Treap](src/com/jwetherell/algorithms/data_structures/ImplicitKeyTreap.java)
-* [KD Tree (k-dimensional tree or k-d tree)](src/com/jwetherell/algorithms/data_structures/KDTree.java)
+* [KD Tree (k-dimensional tree or k-d tree)](src/com/jwetherell/algorithms/data_structures/KdTree.java)
 * [List [backed by an array or a linked list]](src/com/jwetherell/algorithms/data_structures/List.java)
 * [LCP Array (Longest Common Prefix) [backed by a Suffix Array]](src/com/jwetherell/algorithms/data_structures/LCPArray.java)
 * [Matrix](src/com/jwetherell/algorithms/data_structures/Matrix.java)
